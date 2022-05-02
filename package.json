@@ -1,7 +1,7 @@
 {
   "name": "@pijs/data-structure",
   "version": "1.0.0",
-  "description": "",
+  "description": "test something",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Protoss-Interceptor/data-structure.git"
   },
-  "author": "",
+  "author": "protoss.interceptor",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Protoss-Interceptor/data-structure/issues"
