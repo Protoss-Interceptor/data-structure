@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Protoss-Interceptor/data-structure.git"
   },
-  "author": "protoss.interceptor",
+  "author": {
+    "name": "Protoss Interceptor",
+    "email": "protoss.interceptor@gmail.com",
+    "url": "https://velog.io/@interceptor"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Protoss-Interceptor/data-structure/issues"
