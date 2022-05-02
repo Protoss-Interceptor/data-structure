@@ -1,5 +1,5 @@
 {
-  "name": "data-structure",
+  "name": "@pijs/data-structure",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
